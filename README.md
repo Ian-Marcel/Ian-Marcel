@@ -1,16 +1,24 @@
 ## Hi there 👋
 
+- 📚️ I’m currently **learning** on:
+  - 🖥️ Virtualization (mainly KVM/QEMU); 
+  - 📦️ Containers (mainly Docker);
+  - 📜️ Shell-scripts (mainly Bash).
+- 🧑‍🏭️ I’m currently **working** on:
+  - [Easy-Sourced-NGINX](https://github.com/Ian-Marcel/Easy-Sourced-NGINX): a shell-script writen in bash that ease building Nginx from source by automating a bunch of it process, which is very handy when creating a minimal version for dedicaded services or just adding third-party modules to buff Nginx.
+- 📫 How to **reach me**:
+	- Email: [ianmarcel@mailfence.com](mailto:ianmarcel@mailfence.com)
+	- LinkedIn: [Ian Marcel Penteado e Silva](https://www.linkedin.com/in/ian-marcel-penteado/)
+	- StackOverflow: [Ian](https://stackoverflow.com/users/23581034/ian)
+- ⚡ Fun fact: I actually like PHP 💞️🐘️.
+
 <!--
-**Ian-Marcel/Ian-Marcel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
+
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+	
