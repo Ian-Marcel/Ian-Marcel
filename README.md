@@ -1,4 +1,4 @@
-<img src="https://media.licdn.com/dms/image/v2/D4D16AQE0JTNwKc4KVQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1706667702056?e=1733961600&v=beta&t=oiqWuH-UR6FZq4IZZYhy4DC2NagGWcKdbQJB0TMNdXI" style="border-radius: 6.75px;"/>
+![Banner](assets/banner.png)
 
 # 🇧🇷️ Welcome to my GitHub profile 👋
 
