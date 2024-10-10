@@ -1,6 +1,6 @@
 # 🇧🇷️ Welcome to my GitHub profile 👋
 
-I'm Ian Marcel, a brazilian programmer who loves to build server side solutions.
+I'm Ian, a brazilian programmer who loves to build server side solutions.
 
 ## 📚️ I’m currently **learning** on:
 - 🖥️ Virtualization (mainly KVM/Qemu);
