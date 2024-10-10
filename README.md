@@ -12,8 +12,8 @@ I'm Ian, a brazilian programmer who loves to build server side solutions.
 
 ## 📫 How to reach me:
 - Email: [ianmarcel@mailfence.com](mailto:ianmarcel@mailfence.com)
-- LinkedIn: <a href="https://www.linkedin.com/in/ian-marcel-penteado/" target="_blank" rel="noopener noreferrer">Ian Marcel Penteado e Silva</a>
-- Stack Overflow: <a href="https://stackoverflow.com/users/23581034/ian" target="_blank" rel="noopener noreferrer">Ian</a>
+- LinkedIn: <a href="https://www.linkedin.com/in/ian-marcel-penteado/" target="_blank">Ian Marcel Penteado e Silva</a>
+- Stack Overflow: <a href="https://stackoverflow.com/users/23581034/ian" target="_blank">Ian</a>
 
 ### 💬️ Fun fact: I actually like PHP 💞️ 🐘️.
 
