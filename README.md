@@ -17,15 +17,12 @@ I'm Ian, a brazilian programmer who loves building server-side solutions.
 - LinkedIn: [Ian Marcel Penteado e Silva](https://www.linkedin.com/in/ian-marcel-penteado/)
 - Stack Overflow: [Ian](https://stackoverflow.com/users/23581034/ian)
 
-### 💬️ Fun fact about me: I actually like PHP 💞️ 🐘️.
-
-<!--
-
-Here are some ideas to get you started:
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-
-- 😄 Pronouns: ...
--->
-	
+## Skills
+### Programming languages
+[![Languages](https://skillicons.dev/icons?i=bash,php,js)](https://skillicons.dev)
+### Frontend technologies
+[![Client-side](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
+### Backend technologies
+[![Server-side](https://skillicons.dev/icons?i=linux,nginx,docker,mysql)](https://skillicons.dev)
+### Other tools & Technologies
+![Others](https://skillicons.dev/icons?i=git,github,markdown,vscode,figma)
