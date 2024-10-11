@@ -18,13 +18,13 @@ I'm Ian, a brazilian programmer who loves building server-side solutions.
 - Stack Overflow: [Ian](https://stackoverflow.com/users/23581034/ian)
 
 ## 🤹️ Skills
-### Programming languages
+### ✒️ Programming languages
 [![Languages](https://skillicons.dev/icons?i=bash,php,js)](https://skillicons.dev)
 ### 🎨️ Frontend technologies
 [![Client-side](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 ### 🖥️ Backend technologies
 [![Server-side](https://skillicons.dev/icons?i=linux,nginx,docker&theme=light)](https://skillicons.dev)
-### 🖥️ Databases & tools
+### 💾️ Databases & tools
 [![Client-side](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ### 💬️ Other tools & technologies
 [![Others](https://skillicons.dev/icons?i=git,github,markdown,obsidian,vscode,figma)](https://skillicons.dev)
