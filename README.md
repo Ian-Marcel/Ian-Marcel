@@ -26,5 +26,5 @@ I'm Ian, a brazilian programmer who loves building server-side solutions.
 [![Server-side](https://skillicons.dev/icons?i=linux,nginx,docker&theme=light)](https://skillicons.dev)
 ### Databases & tools
 [![Client-side](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
-### Other tools & Technologies
+### Other tools & technologies
 ![Others](https://skillicons.dev/icons?i=git,github,markdown,obsidian,vscode,figma)
