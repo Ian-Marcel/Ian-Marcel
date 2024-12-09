@@ -1,4 +1,4 @@
-![Banner](assets/banner.png)
+[![Banner](assets/banner.png)](https://www.linkedin.com/in/ian-marcel-penteado)
 
 # 🇧🇷️ Welcome to my GitHub profile 👋
 
