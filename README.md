@@ -15,6 +15,7 @@ I'm Ian, a brazilian programmer who loves building server-side solutions.
 ## 📫 How to reach me:
 - Email: [ianmarcel@mailfence.com](mailto:ianmarcel@mailfence.com)
 - LinkedIn: [Ian Marcel Penteado e Silva](https://www.linkedin.com/in/ian-marcel-penteado/)
+- GitLab: [Ian Marcel Penteado e Silva](https://www.linkedin.com/in/ian-marcel-penteado)
 - Stack Overflow: [Ian M](https://stackoverflow.com/users/23581034/ian-m?tab=profile)
 ## 🤹️ Skills
 ### ✒️ Programming languages
