@@ -17,7 +17,7 @@ I'm Ian, a brazilian programmer who loves building server-side solutions.
 - LinkedIn: [Ian Marcel Penteado e Silva](https://www.linkedin.com/in/ian-marcel-penteado/)
 ## 🤹️ Skills
 ### ✒️ Programming languages
-[![Languages](https://skillicons.dev/icons?i=bash,php,js)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=bash,php)](https://skillicons.dev)
 ### 🎨️ Frontend technologies
 [![Client-side](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev)
 ### 🖥️ Backend technologies
@@ -25,4 +25,4 @@ I'm Ian, a brazilian programmer who loves building server-side solutions.
 ### 💾️ Databases & tools
 [![Client-side](https://skillicons.dev/icons?i=mysql)](https://skillicons.dev)
 ### 💬️ Other tools & technologies
-[![Others](https://skillicons.dev/icons?i=git,github,markdown,obsidian,vscode,figma)](https://skillicons.dev)
+[![Others](https://skillicons.dev/icons?i=git,github,markdown,obsidian,figma)](https://skillicons.dev)
