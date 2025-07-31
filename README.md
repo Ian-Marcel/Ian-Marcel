@@ -10,7 +10,7 @@ I'm Ian, a brazilian programmer who loves building server-side solutions.
 - 📜️ Shell-scripts (mainly in *Bash*).
 
 ## 👷️ I’m currently working on:
-- **[Easy-Sourced-NGINX](https://github.com/Ian-Marcel/Easy-Sourced-NGINX)**: a shell-script written in *Bash* that make building *Nginx* from source easier by automating a bunch of it process, which is very handy when creating a minimal *Nginx* for dedicated services or just adding third-party modules to enrich your favorite web server.
+- **[FlatSync](https://github.com/Ian-Marcel/FlatSync)**: Synchronize flatpak applications between _Linux_ devices, written in bash.
 
 ## 📫 How to reach me:
 - Email: [ianmarcel@mailfence.com](mailto:ianmarcel@mailfence.com)
