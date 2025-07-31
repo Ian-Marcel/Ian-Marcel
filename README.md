@@ -10,7 +10,7 @@ I'm Ian, a brazilian programmer who loves building server-side solutions.
 - 📜️ Shell-scripts (mainly in *Bash*).
 
 ## 👷️ I’m currently working on:
-- **[FlatSync](https://github.com/Ian-Marcel/FlatSync)**: a CLI tool for synchronizing flatpak applications between _Linux_ devices through **Git**., written in bash.
+- **[FlatSync](https://github.com/Ian-Marcel/FlatSync)**: a CLI tool for synchronizing flatpak applications between _Linux_ devices through **Git**. Written in bash.
 
 ## 📫 How to reach me:
 - Email: [ianmarcel@mailfence.com](mailto:ianmarcel@mailfence.com)
