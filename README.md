@@ -13,7 +13,7 @@ I'm Ian, a brazilian programmer who loves building server-side solutions.
 - **[FlatSync](https://github.com/Ian-Marcel/FlatSync)**: a CLI tool for synchronizing flatpak applications between _Linux_ devices through **Git**. Written in _Bash_.
 
 ## 📫 How to reach me:
-- Email: [ianmarcel@mailfence.com](mailto:ianmarcel@mailfence.com)
+- Email: [comercial@ianmarcel.dev](mailto:comercial@ianmarcel.dev)
 - LinkedIn: [Ian Marcel Penteado e Silva](https://www.linkedin.com/in/ian-marcel-penteado/)
 ## 🤹️ Skills
 ### ✒️ Programming languages
