@@ -1,6 +1,6 @@
 [![Banner](assets/banner.png)](https://github.com/Ian-Marcel)
 
-# 🇧🇷️ Welcome to my GitHub profile 👋
+# ✝️🇧🇷️ Welcome to my GitHub profile 👋
 
 I'm Ian, a brazilian programmer who loves building server-side solutions.
 
